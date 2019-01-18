@@ -1,2 +1,10 @@
-# regExp-formValidation
-Simple form validation with regular expressions
+# RegExp - Form Validation
+
+Simple user form validation using regular expressions.
+
+## Technologies
+
+- HTML
+- Bootstrap
+- JavaScript
+- RegExp
